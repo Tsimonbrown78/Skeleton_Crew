@@ -1,0 +1,2 @@
+Repeatedly Generate a random 8-queens instance and solve it (where possible) 
+using hill climbing search (steepest-ascent version).
